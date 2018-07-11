@@ -1,0 +1,46 @@
+172.16.19.2
+8359 - suporte
+
+local rede:
+\\classroom.net\Salas\Diurno\Paulista51\Instrutor
+
+site:
+http://jaguar.impacta.com.br/Diurno/Paulista51/Instrutor/
+
+
+Avaliação Impacta:
+http://avaliacao.impacta.com.br/v8/default.php
+
+Frameworks:
+https://www.drupal.org/project/framework
+https://universowp.com.br/porque-usar-frameworks/ - wordpress
+https://br.wordpress.com - wordpress
+
+Repositorio de codigos:
+https://github.com/github
+
+CORES:
+http://paletton.com
+http://www.color-hex.com/
+
+R RED 0,255
+G GREEN
+B BLUE
+
+HEXADECIMAL
+
+CSS
+calculadora especificidade: https://specificity.keegan.st/ 
+
+csss bigodinho
+https://www.youtube.com/watch?v=Y0_FMCji3iE
+
+referencias:
+https://css-tricks.com/
+
+https://caniuse.com/#search=css%20grid
+
+
+
+
+
